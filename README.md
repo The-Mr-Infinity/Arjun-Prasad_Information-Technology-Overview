@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arjun, an <a href="www.linkedin.com/in/arjun-prasad-01010101010101010101010101010101">IT Professional / JavaScript Developer</a>🥷💻📚🔥</h1>
+<h1>Hi, I'm Arjun, an <a href="https://www.linkedin.com/in/arjun-prasad-01010101010101010101010101010101/?trk=opento_sprofile_details">IT Professional / JavaScript Developer</a>🥷💻📚🔥</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
