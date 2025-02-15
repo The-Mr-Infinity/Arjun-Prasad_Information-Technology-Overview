@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/The-Mr-Infinity/osTicket---Post-Install-Configuration/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/The-Mr-Infinity/osTicket-Lifecycle-Examples/blob/main/README.md)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/The-Mr-Infinity/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/The-Mr-Infinity/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 
